@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Text-Based Browser/*
+!/Text-Based Browser/task/
+/Text-Based Browser/task/*
+!/Text-Based Browser/task/browser.py
+!/Text-Based Browser/task/tb_tabs
